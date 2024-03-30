@@ -1,7 +1,8 @@
 // findIndex();
 
-// findIndex huddi find bilan bir xil ishlaydi lekin ko'rsatilgan qiymatni index"ni qaytaradi ush vaqni o'zida loop toxtaydi
+// findIndex huddi find bilan bir xil ishlaydi lekin ko'rsatilgan qiymatni index"ni qaytaradi va o'sha vaqni o'zida loop toxtaydi
 
+// Example:
 // const arr = [
 //   { id: 1, name: "Eshmat 1" },
 //   { id: 2, name: "Eshmat 2" },

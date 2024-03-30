@@ -1,7 +1,8 @@
 // find()
 
-// find biz aynan ko'rsatgan qiymatni array ichidan birinchi ko`rganini olib keladi va ush vaqni o'zida loop toxtaydi
+// find biz aynan ko'rsatgan qiymatni array ichidan birinchi ko`rganini olib keladi va o'sha vaqtni o'zida loop toxtaydi
 
+// Example:
 // const arr = [
 //   { id: 1, name: "Eshmat 1" },
 //   { id: 2, name: "Eshmat 2" },

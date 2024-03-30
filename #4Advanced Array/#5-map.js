@@ -1,10 +1,10 @@
-Map;
+// map();
 
-// map bizga array bo'yicha loop qilib beradi va uni ichida return yozilishi shart
-
-// let ar = [1, 2, 3, 4, 5];
+// map bizga array bo'yicha loop qilib beradi va uni ichida return yozilishi kerak
 
 // Example:
+// let ar = [1, 2, 3, 4, 5];
+
 // let res = ar.map((val, index) => {
 //   if (index % 2 === 0) {
 //     return val;
@@ -17,6 +17,7 @@ Map;
 
 // Agar map ichida return bo'lmasa automatic undefined bo`lib ketadi
 
+// Example:
 // let ar = [1, 2, 3, 4, 5];
 
 // let res = ar.map((val, index) => {
