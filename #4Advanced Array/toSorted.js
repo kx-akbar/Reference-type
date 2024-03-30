@@ -1,4 +1,4 @@
-toSorted;
+// toSorted();
 
 // toSorted => Bizga berilgan arraydan copy olib kegin sort qiladi toSorted"ni oddiy sort() metodidan farqi shunda oddiy sort()
 // metodi arrayni asl holatiga ham tasir qiladi
